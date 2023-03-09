@@ -11,6 +11,12 @@
     header {
         overflow: hidden;
     }
+    .navbar-wrapper .search-btn {
+        display: none;
+    }
+    .navbar-wrapper .menu-btn {
+        display: block;
+    }
     .navbar > li {
         display: block;
     }

@@ -30,6 +30,10 @@ header {
   padding: 0 19px;
 }
 
+.navbar-wrapper .menu-btn {
+  display: none;
+}
+
 .navbar-wrapper .search-btn:hover {
   background-color: #f44336 !important;
   cursor: pointer;
@@ -485,10 +489,6 @@ header {
 
 .modal-content .help-link a {
   color: #2196F3;
-}
-
-.disabled {
-  display: none !important;
 }
 
 @keyframes modalFadeIn {
