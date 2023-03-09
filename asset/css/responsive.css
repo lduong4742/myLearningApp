@@ -8,6 +8,9 @@
 
 /* Mobile */
 @media (max-width: 740px) {
+    .s-full-width {
+        width: 100%;
+    }
     header {
         overflow: hidden;
     }
